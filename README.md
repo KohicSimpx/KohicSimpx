@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! I'm Danila Voronkov
+Hi! I'm Aristen
 A passionate frontend developer
 Tech Stack:
 JavaScript TypeScript React Next JS
