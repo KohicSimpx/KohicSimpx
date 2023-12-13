@@ -11,4 +11,3 @@ SASS Styled Components
 
 MongoDB
 
-Socials:
