@@ -1,4 +1,4 @@
-###Hi! I'm Aristen 👋
+Hi! I'm Aristen 👋
 
 A passionate frontend developer
 
