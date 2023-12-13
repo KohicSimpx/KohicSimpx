@@ -1,6 +1,6 @@
 Hi! I'm Aristen 👋
 
-A frontend developer
+Frontend developer
 
 Tech Stack:
 JavaScript TypeScript React Next JS
